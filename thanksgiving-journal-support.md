@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: standalone
 title: Thanksgiving Journal Support
 permalink: /thanksgiving-journal/support/
+nav_exclude: true
 ---
 
 Thanksgiving Journal is a quiet place to record daily blessings, remember God’s goodness, and maintain a prayer list.
@@ -24,13 +25,13 @@ Open **Settings**, edit the Everyday Blessing text, and tap **Save**. You can se
 
 Open **Settings** and select **Delete All Journal Data**. After you confirm, the app permanently deletes your blessings and prayer-list entries and restores your personalized Everyday Blessing to its original default.
 
-### Why isn’t a Bible verse loading?
+### Can I use the app without internet?
 
-Check your internet connection and reopen the app. If an online verse cannot be retrieved, the app displays a verse bundled with the app.
+Yes. Your journal and prayer list work without an internet connection. When an online Bible verse cannot be retrieved, the app displays a bundled verse instead.
 
 ## Contact support
 
-For help, feedback, or questions, email [cathy.qjin@gmail.com](mailto:cathy.qjin@gmail.com).
+For help, feedback, or questions, [send an email](mailto:cathy.qjin@gmail.com).
 
 When reporting a problem, it is helpful to include:
 

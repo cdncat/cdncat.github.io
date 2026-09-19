@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: standalone
 title: Thanksgiving Journal Privacy Policy
 permalink: /thanksgiving-journal/privacy/
+nav_exclude: true
 ---
 
 **Effective September 18, 2026**
@@ -30,14 +31,10 @@ You can permanently delete your blessings, prayer-list entries, and personalized
 
 You can also remove locally stored app data by deleting the app from your device. Information contained in an Apple backup is controlled through your Apple backup settings.
 
-## Children’s privacy
-
-The developer does not knowingly collect personal information from children or any other users through Thanksgiving Journal.
-
 ## Changes to this policy
 
 This policy may be updated if the app’s features or data practices change. Updates will be posted here with a revised effective date.
 
 ## Contact
 
-For questions about this privacy policy, email [cathy.qjin@gmail.com](mailto:cathy.qjin@gmail.com).
+For questions about this privacy policy, [send an email](mailto:cathy.qjin@gmail.com).
